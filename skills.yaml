@@ -1,0 +1,6 @@
+# Skills to fetch
+# Format: skill-name: owner/repo
+# Default path: skills/{skill-name}
+
+skills:
+  nushell: nushell/nu_scripts
